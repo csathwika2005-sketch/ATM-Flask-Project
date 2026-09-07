@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "sathwika",
+            "email": "csathwika2005@gmail.com",
+            "pin": "12345",
+            "history": [
+                "3000 deposited",
+                "3000 withdraw",
+                "3000 deposited",
+                "200 withdraw",
+                "200 deposited",
+                "100 Withdraw",
+                "3000 deposited",
+                "200 deposited",
+                "200 deposited",
+                "3000 deposited"
+            ],
+            "balance": 515700
+        }
+    ]
+}
